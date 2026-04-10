@@ -2,20 +2,18 @@
 
 A strategic two-player board game with chain mechanics, AI opponent, and online multiplayer. Built with pure HTML, CSS, and JavaScript.
 
-![Game Screenshot](https://via.placeholder.com/800x400?text=Stone+Pit+Gameplay) *(Replace with an actual screenshot of your game)*
+![Game Screenshot](https://via.placeholder.com/800x400?text=Stone+Pit+Gameplay) 
 
 ## 🎮 Play Now
 
 You can play the game directly in your browser:  
 👉 **[Launch Stone Pit Game](./game.html)** (clone and open `game.html`)
 
-Or try the live demo: *(Add your GitHub Pages link here if you enable it)*
 
----
 
-## ✨ Features
+ ✨ Features
 
-- **3 Game Modes**
+- 3 Game Modes
   - 👥 **2 Players** – Pass & play on the same device
   - 🤖 **vs AI** – 3 difficulty levels (Easy / Medium / Hard)
   - 🌐 **Online Multiplayer** – Play with a friend anywhere using PeerJS (room code system)
