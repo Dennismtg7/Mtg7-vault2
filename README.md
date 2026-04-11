@@ -1,4 +1,4 @@
-# 🪨 Stone Pit – Chain Capture
+# African 🪨 Stone Pit – Chain Capture
 
 A strategic two-player board game with chain mechanics, AI opponent, and online multiplayer. Built with pure HTML, CSS, and JavaScript.
 
@@ -7,7 +7,7 @@ A strategic two-player board game with chain mechanics, AI opponent, and online 
 ## 🎮 Play Now
 
 You can play the game directly in your browser:  
-👉 **[Launch Stone Pit Game](./game.html)** (clone and open `game.html`)
+👉 **[Launch African 🪨 Stone Pit Game](./game.html)** (clone and open `game.html`)
 
 
 
